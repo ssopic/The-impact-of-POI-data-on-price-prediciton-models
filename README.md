@@ -40,6 +40,8 @@ Yelp Fusion API retrieves location and tags of various objects around a given la
 <br>
 <br>
 <br>
+<br>
+
 ### Summary:
 - **Yelp Fusion API:** Utilized for obtaining location and tags of objects near specified coordinates.
 - **Visualization Focus:** Highlights tag structures rather than specific locations.
