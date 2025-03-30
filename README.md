@@ -4,7 +4,8 @@ This repository is used to summarize the visualizations for a real-estate data a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## [Common real-estate mass price prediction (convenience) analysis](https://public.tableau.com/app/profile/silvio.sopic/viz/KCHousedatawithouttime-seriesinfo/Dashboard3)
-<img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/convenience.png" width="550px" height="360px" />
+<img align="right" alt="rankings" src="https://raw.githubusercontent.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/refs/heads/main/convenience.png" width="550px" height="360px" />
+
 The chart serves as a comprehensive tool for analyzing main variables in real estate data. Users can select X and Y variables, which can be nominal or continuous, and can also be left blank as needed. The X variable determines the bubble sizes in the map chart, while the Y variable defines the color intensity. The scatterplot to the right visualizes the relationship between the selected X and Y variables. The histogram is used to observe variable distribution, with the Y variable used for selection. A filter is available for showcasing various ranges of said variable on the other charts making it ideal for outlier observation. Finally, a boxplot is available at the bottom left, allowing the display of a single variable or combining a continuous variable with a nominal one to analyze the distribution based on the nominal variable.
 
 <br>
@@ -19,7 +20,7 @@ The chart serves as a comprehensive tool for analyzing main variables in real es
 - Boxplot Functionality: Available at the bottom left, displays a single variable or combines continuous with nominal variables for distribution analysis.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="left" alt="yelping around yelp categories" src="https://github.com/ssopic/TableauPortfolio/blob/main/category%20parents%20alias.png" width="550px" height="360px" />
+<img align="left" alt="yelping around yelp categories" src="https://raw.githubusercontent.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/refs/heads/main/category_parent_alias.png" width="550px" height="360px" />
 ## [Yelp JSON Helper visualization summary](https://public.tableau.com/app/profile/silvio.sopic/viz/Yelpfusioncategoryhelper/Dashboard1)
 Yelp Fusion API retrieves location and tags of various objects around a given latitude and longitude. The visualization represents tag structures. For instance, a restaurant can be labeled as a Mexican or Croatian restaurant, or both (fusion tag). The length of the bar chart indicates the tag count. Tags are crucial for comprehending specific object types during subsequent analysis.
 <br>
@@ -33,7 +34,7 @@ Yelp Fusion API retrieves location and tags of various objects around a given la
 - **Bar Chart Length:** Represents the tag count, providing insights into tag prevalence.
 - **Significance of Tags:** Crucial for understanding object details in later analysis stages.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/ratings.png" width="550px" height="360px" />
+<img align="right" alt="rankings" src="https://raw.githubusercontent.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/refs/heads/main/ratings.png" width="550px" height="360px" />
 
 ## [Points of interest and their ranking](https://public.tableau.com/app/profile/silvio.sopic/viz/YelpingaroundKingsCountydoubleselector/Dashboard1)
 Utilizing the Yelp Fusion application with latitude and longitude variables from the "convenience visualization" (but any mesh can be used) enables the understanding of specific elements' locations within a city. This information is crucial for interpreting geographical data, providing insights not only about the presence of locations like parks but also detailing their quality. For instance, distinguishing between a clean park and a dirty one impacts their respective surroundings differently. The visualization allows exploration of the surroundings of a selected location on a map. Filters on the left facilitate drill-down based on main tags from Yelp Fusion JSON. Certain brands may have multiple stores and their numbers and ratings are depicted on the treemap to the right. Further drill-down options are available in the filters below.
@@ -50,7 +51,7 @@ Utilizing the Yelp Fusion application with latitude and longitude variables from
 
 
 ## [Price prediction results visualization](https://public.tableau.com/app/profile/silvio.sopic/viz/RandomForestresults/Dashboard1)
-<img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/random%20forest%20results.png" width="550px" height="360px" />
+<img align="right" alt="rankings" src="https://raw.githubusercontent.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/refs/heads/main/random%20forest%20results.png" width="550px" height="360px" />
 The chart displays outcomes derived from a random-forest model aimed at identifying optimal variable combinations to enhance price prediction quality. It showcases several metrics such as Accuracy, Mean Absolute Error (MAE) in USD, Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared. The varying combinations of variables exhibit diverse impacts on model improvement. Ultimately, utilizing all variables led to a significant enhancement across all factors.
 <br>
 <br>
@@ -75,7 +76,7 @@ The chart displays outcomes derived from a random-forest model aimed at identify
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## [Price prediction features](https://public.tableau.com/app/profile/silvio.sopic/viz/WorkInProgress_16198790017670/4maps2_0)
-<img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/price%20prediction%20features.png" width="550px" height="360px" />
+<img align="right" alt="rankings" src="https://raw.githubusercontent.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/refs/heads/main/price%20prediction%20features.png" width="550px" height="360px" />
 The chart illustrates the most influential features contributing to the prediction of real estate prices. These features encompass a blend of geographical attributes, some of which are continuous variables (such as the quantity of bars within a 50-meter radius of the real estate), while others are nominal (like the average quality score of these bars, transformed into an ordinal variable). Notably, the visualization also sheds light on specific city areas with larger real estate properties or those holding various other crucial intrinsic features. For optimal viewing, it is recommended to set one continuous selector to price and modify the other selector to observe variations and discern disparities.
 <br>
 <br>
