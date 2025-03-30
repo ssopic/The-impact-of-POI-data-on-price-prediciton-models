@@ -31,6 +31,7 @@ The chart serves as a comprehensive tool for analyzing main variables in real es
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="left" alt="yelping around yelp categories" src="https://raw.githubusercontent.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/refs/heads/main/category_parent_alias.png" width="550px" height="360px" />
+
 ## [Yelp JSON Helper visualization summary](https://public.tableau.com/app/profile/silvio.sopic/viz/Yelpfusioncategoryhelper/Dashboard1)
 Yelp Fusion API retrieves location and tags of various objects around a given latitude and longitude. The visualization represents tag structures. For instance, a restaurant can be labeled as a Mexican or Croatian restaurant, or both (fusion tag). The length of the bar chart indicates the tag count. Tags are crucial for comprehending specific object types during subsequent analysis.
 <br>
