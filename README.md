@@ -14,7 +14,6 @@ and error values.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## [Common real-estate mass price prediction (convenience) analysis](https://public.tableau.com/app/profile/silvio.sopic/viz/KCHousedatawithouttime-seriesinfo/Dashboard3)
-
 <img align="right" alt="rankings" src="https://raw.githubusercontent.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/refs/heads/main/convenience.png" width="550px" height="360px" />
 
 The chart serves as a comprehensive tool for analyzing main variables in real estate data. Users can select X and Y variables, which can be nominal or continuous, and can also be left blank as needed. The X variable determines the bubble sizes in the map chart, while the Y variable defines the color intensity. The scatterplot to the right visualizes the relationship between the selected X and Y variables. The histogram is used to observe variable distribution, with the Y variable used for selection. A filter is available for showcasing various ranges of said variable on the other charts making it ideal for outlier observation. Finally, a boxplot is available at the bottom left, allowing the display of a single variable or combining a continuous variable with a nominal one to analyze the distribution based on the nominal variable.
