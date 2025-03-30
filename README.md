@@ -13,6 +13,8 @@ predicting the price of real estate value. These features improved model perform
 and error values.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" alt="rankings" src="https://raw.githubusercontent.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/refs/heads/main/convenience.png" width="550px" height="360px" />
+
 ## [Common real-estate mass price prediction (convenience) analysis](https://public.tableau.com/app/profile/silvio.sopic/viz/KCHousedatawithouttime-seriesinfo/Dashboard3)
 
 
@@ -28,7 +30,6 @@ The chart serves as a comprehensive tool for analyzing main variables in real es
 - Scatterplot Explanation: Demonstrates the relationship between selected X and Y variables.
 - Histogram Usage: Visualizes variable distribution, with Y variable serving for selection.
 - Boxplot Functionality: Available at the bottom left, displays a single variable or combines continuous with nominal variables for distribution analysis.
-<img align="right" alt="rankings" src="https://raw.githubusercontent.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/refs/heads/main/convenience.png" width="550px" height="360px" />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
